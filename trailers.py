@@ -24,7 +24,7 @@ hunger_games = movie.Movie("Hunger Games Catching Fire",
                            "https://www.youtube.com/watch?v=zoKj7TdJk98")
 
 never_back_down = movie.Movie("Never Back Down: No Surrender",
-                              "Case Walker (Michael Jai White), a former MMA champion, begins to stage a comeback and make another run at the title, pitting his old school skills against fighters from the new breed.",
+                              "Case Walker (Michael Jai White), a former MMA champion, begins to stage a comeback and make another run at the title.",
                               "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Never_Back_Down_3.jpg/220px-Never_Back_Down_3.jpg",
                               "https://www.youtube.com/watch?v=dlyVshoWJDE")
 

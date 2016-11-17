@@ -64,6 +64,11 @@
             height: 65px;
 
         }
+
+        .caption-text {
+            font-size: 1em;
+
+        }
     </style>
     <script type="text/javascript" charset="utf-8">
         // Pause the video when the modal is closed
@@ -120,31 +125,37 @@
 <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="HSzx-zryEgM" data-toggle="modal" data-target="#trailer">
     <img src="http://static.srcdn.com/wp-content/uploads/Doctor-Strange-Poster.jpg" width="220" height="342">
     <h2>Doctor Strange</h2>
+    <p class="caption-text">Dr. Stephen Strange's (Benedict Cumberbatch) life changes after a car accident robs him of the use of his hands.</p>
 </div>
 
 <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="dKrVegVI0Us" data-toggle="modal" data-target="#trailer">
     <img src="http://www.flickeringmyth.com/wp-content/uploads/2016/03/Civil-War-International-Poster.jpg" width="220" height="342">
     <h2>Captain America Civil War</h2>
+    <p class="caption-text">Political pressure mounts to install a system of accountability when the actions of the Avengers lead to collateral damage.</p>
 </div>
 
 <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="zoKj7TdJk98" data-toggle="modal" data-target="#trailer">
     <img src="http://moviefiles.alphacoders.com/179/poster-1792.jpg" width="220" height="342">
     <h2>Hunger Games Catching Fire</h2>
+    <p class="caption-text">As she and Peeta travel throughout the districts, Katniss senses a rebellion is stirring.</p>
 </div>
 
 <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="dlyVshoWJDE" data-toggle="modal" data-target="#trailer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Never_Back_Down_3.jpg/220px-Never_Back_Down_3.jpg" width="220" height="342">
     <h2>Never Back Down: No Surrender</h2>
+    <p class="caption-text">Case Walker (Michael Jai White), a former MMA champion, begins to stage a comeback and make another run at the title.</p>
 </div>
 
 <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="EXeTwQWrcwY" data-toggle="modal" data-target="#trailer">
     <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" width="220" height="342">
     <h2>The Dark Knight</h2>
+    <p class="caption-text">When a vile young criminal calling himself the Joker (Heath Ledger) suddenly throws the town into chaos, the caped Crusader begins to tread a fine line between heroism and vigilantism.</p>
 </div>
 
 <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="y6ZW7KXaXYk" data-toggle="modal" data-target="#trailer">
     <img src="http://www.harrypottermovieposters.com/wp-content/uploads/2013/08/harry-potter-and-the-order-of-the-phoenix-movie-poster-style-h.jpg" width="220" height="342">
     <h2>Harry Potter and the Order of the Phoenix</h2>
+    <p class="caption-text">Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.</p>
 </div>
 
     </div>
